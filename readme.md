@@ -8,7 +8,7 @@ Usage:
 3. Run demo_pybullet_talos_gripper_closed_chains.py to play with gripper model **with** closed kinematic chains
 4. Run demo_tsid_talos_gripper_closed_kinematic_chain.py to check how the closed kinematic chain works in TSID with Meshcat visualisation, emlulating the same behaivour as in pybullet  
 
-Sample how this gripper works **with** additional contact via ContactTwoFramePositions thus creating a closed kinematic chain:
+Sample how this gripper works **with** additional contact via ContactTwoFramePositions thus creating a closed kinematic chain:  
 ![TalosGripperWithClosedKinematicChain](https://github.com/stack-of-tasks/tsid/assets/40291783/900cc0ae-c727-44c2-8dd6-d64202d2333e)
 
 Sample how this gripper works **without** additional contact (no closed kinematic chains used):  
